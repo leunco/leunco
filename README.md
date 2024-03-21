@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- I'm interested in Statistics, Data Analytics, Data Science
+- I majored in Computer Science and Statistics
 -->
 
 ## Who am I
-- I'm interested in Statistics, Data Analytics, Data Science
-- I majored in Computer Science and Statistics
+- 세종대학교 컴퓨터공학 전공, 응용통계학 복수전공 (2018.03 ~ 2022.08)
+- 이화여자대학교 대학원 통계학 전공 (2022.09 ~ 2024.08)
 
 ## Experience
 - 2022 뉴스빅데이터 해커톤 대상 (22.11.11)
